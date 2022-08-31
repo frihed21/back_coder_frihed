@@ -39,7 +39,7 @@ class Contenedor{
 //Creacion de objeto Contenedor
 nuevo= new Contenedor()
 //Metodo Save()
-nuevo.save({nombre:"Leon",price:130,thumbnail:'https://ih1.redbubble.net/image.404718984.1363/poster,504x498,f8f8f8-pad,600x600,f8f8f8.u3.jpg'}).then(res=>console.log(res))
+// nuevo.save({nombre:"Leon",price:130,thumbnail:'https://ih1.redbubble.net/image.404718984.1363/poster,504x498,f8f8f8-pad,600x600,f8f8f8.u3.jpg'}).then(res=>console.log(res))
 //Metodo getById(number)
 // nuevo.getById(3).then(res=>console.log(res))
 //Metodo getAll()
