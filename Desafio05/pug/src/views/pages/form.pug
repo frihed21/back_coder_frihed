@@ -1,0 +1,21 @@
+html 
+  head 
+    title="Create Product"
+  body
+    include ../partials/header.pug
+    br
+    form(action='/productos' method='POST')
+      label(for='nombre') Nombre:
+      input(type='text' name='nombre' required='')
+      br
+      br
+      label(for='price') Price:
+      input(type='number' name='price' required='')
+      br
+      br
+      label(for='thumbnail') Thumbnail:
+      input(type='text' name='thumbnail' required='')
+      br
+      br
+      button(type='submit') Add
+    include ../partials/footer.pug

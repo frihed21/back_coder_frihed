@@ -1,0 +1,75 @@
+[
+	{
+		nombre: 'Mariposa',
+		price: 120.00,
+		thumbnail: 'https://cdn2.iconfinder.com/data/icons/summer-424/256/s6.png',
+		id: 1
+	},
+	{
+		nombre: 'Jirafas'
+		price: 90.00,
+		thumbnail: 'https://cdn2.iconfinder.com/data/icons/geometric-animals/100/Jirafa-256.png',
+		id: 2
+	},
+	{
+		nombre: 'Bosque',
+		price: 170.00,
+		thumbnail: 'https://cdn2.iconfinder.com/data/icons/summer-424/256/s6.png',
+		id: 3
+	}
+    {
+		nombre: 'Mariposa',
+		price: 120.00,
+		thumbnail: 'https://cdn1.iconfinder.com/data/icons/colored-butterfly/154/insect-butterfly-colored-wings-256.png',
+		id: 4
+	},
+	{
+		nombre: 'Jirafas'
+		price: 90.00,
+		thumbnail: 'https://cdn2.iconfinder.com/data/icons/geometric-animals/100/Jirafa-256.png',
+		id: 5
+	},
+	{
+		nombre: 'Bosque',
+		price: 170.00,
+		thumbnail: 'https://cdn2.iconfinder.com/data/icons/summer-424/256/s6.png',
+		id: 6
+	}
+
+	{
+		nombre: 'Mariposa',
+		price: 120.00,
+		thumbnail: 'https://cdn1.iconfinder.com/data/icons/colored-butterfly/154/insect-butterfly-colored-wings-256.png',
+		id: 7
+	},
+	{
+		nombre: 'Jirafas'
+		price: 90.00,
+		thumbnail: 'https://cdn2.iconfinder.com/data/icons/geometric-animals/100/Jirafa-256.png',
+		id: 8
+	},
+	{
+		nombre: 'Bosque',
+		price: 170.00,
+		thumbnail: 'https://cdn2.iconfinder.com/data/icons/summer-424/256/s6.png',
+		id: 9
+	}
+    {
+		nombre: 'Mariposa',
+		price: 120.00,
+		thumbnail: 'https://cdn3.iconfinder.com/data/icons/autumn-season-watercolor-collection/256/a04_2.png',
+		id: 10
+	},
+	{
+		nombre: 'Jirafas'
+		price: 90.00,
+		thumbnail: 'https://cdn2.iconfinder.com/data/icons/geometric-animals/100/Jirafa-256.png',
+		id: 11
+	},
+	{
+		nombre: 'Bosque',
+		price: 170.00,
+		thumbnail: 'https://cdn2.iconfinder.com/data/icons/summer-424/256/s6.png',
+		id: 12
+	}
+]

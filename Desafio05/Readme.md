@@ -1,0 +1,1 @@
+De las plantillas mostradas en clase, optare por usar en este reto el handlebars debido a que es mas practico y factible al momento de generar paginas, permitiendo generar HTMLs a raiz de objetos en formato json.
