@@ -1,0 +1,20 @@
+[
+	{
+		"email": "ckm@wowsas.com",
+		"message": "consulta info sobre esto",
+		"date": "25/9/2022, 10:55:09",
+		"id": 1
+	},
+	{
+		"email": "cg@wowline.com",
+		"message": "hola como estas quiero info",
+		"date": "25/9/2022, 11:16:56",
+		"id": 2
+	},
+	{
+		"email": "jennyluz@yahoo.com",
+		"message": "quisiera que me informen",
+		"date": "26/9/2022, 09:05:43",
+		"id": 3
+	}
+]

@@ -1,0 +1,34 @@
+<br />
+<form action="/productos" method="POST">
+  <label for="nombre">Nombre:</label>
+  <input type="text" id="nombreProduct" name="nombre" /><br /><br />
+  <label for="price">Price:</label>
+  <input type="text" id="priceProduct" name="price" /><br /><br />
+  <label for="thumbnail">Thumbnail:</label>
+  <input type="text" id="thumbnailProduct" name="thumbnail" /><br /><br />
+  <input type="submit" id="submitProduct" value="Submit" />
+</form>
+<h1>ELEMENTARY CHAT</h1>
+<span>Email</span>
+<input id="emailInput" type="email" required />
+<input id="chatInput" placeholder="Escribe un mensaje..." required />
+<button id="submitMessage" type="submit">Enviar</button>
+<br /><br />
+<div>
+ 
+  <span id="history">
+  </span>
+  <h2>Lista de productos</h2>
+  <table>
+    <thead>
+      <tr>
+        <th scope="col">#ID</th>
+        <th scope="col">Nombre</th>
+        <th scope="col">Precio</th>
+        <th scope="col">Imagen</th>
+      </tr>
+    </thead>
+    <tbody id="table-body">
+    </tbody>
+  </table>
+</div>

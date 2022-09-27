@@ -1,0 +1,14 @@
+[
+	{
+		"nombre": "Colibri",
+		"price": "99.00",
+		"thumbnail": "https://cdn2.iconfinder.com/data/icons/summer-424/256/s6.png",
+		"id": 1
+	},
+	{
+		"nombre": "Mariposa",
+		"price": "120.00",
+		"thumbnail": "https://cdn1.iconfinder.com/data/icons/colored-butterfly/154/insect-butterfly-colored-wings-256.png",
+		"id": 2
+	}
+]
