@@ -1,6 +1,18 @@
 {
   "dependencies": {
     "express": "^4.18.1",
-    "express-handlebars": "^6.0.6"
-  }
+    "express-handlebars": "^6.0.6",
+    "socket.io": "^4.5.2"
+  },
+  "name": "desafio05",
+  "description": "De las plantillas mostradas en clase, optare por usar en este reto el handlebars debido a que es mas practico y factible al momento de generar paginas, permitiendo generar HTMLs a raiz de objetos en formato json.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
