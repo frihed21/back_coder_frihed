@@ -1,0 +1,52 @@
+[
+	{
+		"nombre": "Mariposa",
+		"precio": "120",
+		"descripcion": "Cuadro en acuarelas y acrilico",
+		"codigo": "FR-1",
+		"foto": "https://cdn2.iconfinder.com/data/icons/summer-424/256/s6.png",
+		"stock": "20",
+		"timestamp": 1964996235468,
+		"id": 1
+	},
+	{
+		"nombre": "Jirafas",
+		"precio": "90",
+		"descripcion": "Cuadro en acuarelas y acrilico",
+		"codigo": "FR-1",
+		"foto": "https://cdn2.iconfinder.com/data/icons/geometric-animals/100/Jirafa-256.png",
+		"stock": "10",
+		"timestamp": 1964997636934,
+		"id": 2
+	},
+	{
+		"nombre": "Bosque",
+		"precio": "170",
+		"descripcion": "Cuadro en acuarelas y acrilico",
+		"codigo": "FR-1",
+		"foto": "https://cdn2.iconfinder.com/data/icons/summer-424/256/s6.png",
+		"stock": "25",
+		"timestamp": 1964998146589,
+		"id": 3
+	},
+	{
+		"nombre": "Mariposa",
+		"precio": "120",
+		"descripcion": "Cuadro en acuarelas y acrilico",
+		"codigo": "FR-1",
+		"foto": "https://cdn1.iconfinder.com/data/icons/colored-butterfly/154/insect-butterfly-colored-wings-256.png",
+		"stock": "20",
+		"id": 4,
+		"timestamp": 1965037367345
+	},
+	{
+		"nombre": "Jirafas",
+		"precio": "90",
+		"descripcion": "Cuadro en acuarelas y acrilico",
+		"codigo": "FR-1",
+		"foto": "https://cdn2.iconfinder.com/data/icons/geometric-animals/100/Jirafa-256.png",
+		"stock": "8",
+		"id": 5,
+		"timestamp": 1965037518408
+	}
+]

@@ -1,0 +1,73 @@
+[
+	{
+		"products": [],
+		"timestamp": 1965031536578,
+		"id": 1
+	},
+	{
+		"products": [],
+		"timestamp": 1965031687435,
+		"id": 2
+	},
+	{
+		"products": [],
+		"timestamp": 1965031683579,
+		"id": 3
+	},
+	{
+		"products": [
+			{
+				"nombre": "Jirafas",
+				"precio": "90",
+				"descripcion": "Cuadro en acuarelas y acrilico",
+				"codigo": "FR-1",
+				"foto": "https://cdn2.iconfinder.com/data/icons/geometric-animals/100/Jirafa-256.png",
+				"stock": "10",
+				"timestamp": 1964997636934,
+				"id": 2
+			},
+			{
+				"nombre": "Mariposa",
+				"precio": "120",
+				"descripcion": "Cuadro en acuarelas y acrilico",
+				"codigo": "FR-1",
+				"foto": "https://cdn2.iconfinder.com/data/icons/summer-424/256/s6.png",
+				"stock": "20",
+				"timestamp": 1964996235468,
+				"id": 1
+			},
+			{
+				"nombre": "Bosque",
+				"precio": "170",
+				"descripcion": "Cuadro en acuarelas y acrilico",
+				"codigo": "FR-1",
+				"foto": "https://cdn2.iconfinder.com/data/icons/summer-424/256/s6.png",
+				"stock": "25",
+				"timestamp": 1964998146589,
+				"id": 3
+			},
+			{
+				"nombre": "Jirafas",
+				"precio": "90",
+				"descripcion": "Cuadro en acuarelas y acrilico",
+				"codigo": "FR-1",
+				"foto": "https://cdn2.iconfinder.com/data/icons/geometric-animals/100/Jirafa-256.png",
+				"stock": "10",
+				"timestamp": 1964997636934,
+				"id": 2
+			},
+			{
+				"nombre": "Mariposa",
+				"precio": "120",
+				"descripcion": "Cuadro en acuarelas y acrilico",
+				"codigo": "FR-1",
+				"foto": "https://cdn2.iconfinder.com/data/icons/summer-424/256/s6.png",
+				"stock": "20",
+				"timestamp": 1964996235468,
+				"id": 1
+			}
+		],
+		"timestamp": 1965031684623,
+		"id": 4
+	}
+]
